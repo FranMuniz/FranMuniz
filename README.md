@@ -1,4 +1,4 @@
-### Olá, eu sou a Francieli Muniz  👋
+### Oi, é a Francieli Muniz  👋
 
 #### Bio
 
