@@ -1,4 +1,4 @@
-### Hello World, é a Francieli Muniz 👩‍💻😉
+### Hello World, sou a Francieli Muniz 👩‍💻😉
 
 Sou estudante de Ciência da Computação, através da faculdade tenho elevado meu grau de conhecimento sobre programação. Atualmente estou me dedicando a aprender um pouco mais sobre HTML, CSS e JavaScript... Talves desbravando um pouquinho de Java também. Sinta-se à vontade para me dar uns toques e dicas sobre como melhorar :)
 
