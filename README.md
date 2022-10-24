@@ -1,7 +1,7 @@
 ### Hello World, sou a Francieli Muniz 👩‍💻😉
 
 Sou estudante de Ciência da Computação. 
-Através da faculdade tenho elevado meu grau de conhecimento sobre programação. Atualmente estou me dedicando a aprender um pouco mais sobre HTML, CSS e JavaScript... Talvez desbravando um pouquinho de Java também. Sinta-se à vontade para me dar uns toques e dicas sobre como melhorar :)
+Através da faculdade tenho elevado meu grau de conhecimento sobre programação. Atualmente estou me dedicando a aprender um pouco mais sobre Cyber Segurança... Talvez desbravando um pouquinho de Python também. Sinta-se à vontade para me dar uns toques e dicas sobre como melhorar :)
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
