@@ -3,7 +3,7 @@
 Sou estudante de Ciência da Computação. 
 Através da faculdade tenho elevado meu grau de conhecimento sobre programação. Atualmente estou me dedicando a aprender um pouco mais sobre Cyber Segurança... Talvez desbravando um pouquinho de Python também. Sinta-se à vontade para me dar uns toques e dicas sobre como melhorar :)
 
-![python]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white).
 ![css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
