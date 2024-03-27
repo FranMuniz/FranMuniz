@@ -1,7 +1,7 @@
 ### Hello World, sou a Francieli Muniz 👩‍💻😉
 
 Sou estudante de Ciência da Computação. 
-Através da faculdade tenho elevado meu grau de conhecimento sobre programação. Atualmente estou me dedicando a aprender um pouco mais sobre Cyber Segurança... Talvez desbravando um pouquinho de Python também. Sinta-se à vontade para me dar uns toques e dicas sobre como melhorar :)
+Através da faculdade tenho elevado meu grau de conhecimento sobre programação. Atualmente estou me dedicando a aprender um pouco mais Banco de Dados... Talvez desbravando um pouquinho de Python também. Sinta-se à vontade para me dar uns toques e dicas sobre como melhorar :)
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white).
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white).
