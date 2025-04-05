@@ -1,11 +1,16 @@
-### Hello World, sou a Francieli Muniz 👩‍💻😉
+### Hello World, sou a Fran — Engenharia de Dados com Propósito 👩‍💻🧠
 
-Sou estudante de Ciência da Computação. 
-Através da faculdade tenho elevado meu grau de conhecimento sobre programação. Atualmente estou me dedicando a aprender um pouco mais Banco de Dados... Talvez desbravando um pouquinho de Python também. Sinta-se à vontade para me dar uns toques e dicas sobre como melhorar :)
+## ⚙️ Tecnologias & Ferramentas
+
+- **Linguagens:** Python, SQL
+- **Orquestração:** Apache Airflow
+- **Processamento:** Apache Spark
+- **Banco de Dados:** PrestoSQL e PostgreSQL
+- **Cloud & Big Data:** AWS, S3
+- **Versionamento & Colaboração:** Git, GitHub
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white).
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white).
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranMuniz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
