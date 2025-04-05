@@ -1,6 +1,6 @@
-### Hello World, sou a Fran — Engenharia de Dados com Propósito 👩‍💻🧠
+## Hello World, sou a Fran — Engenharia de Dados com Propósito 👩‍💻🧠
 
-## ⚙️ Tecnologias & Ferramentas
+### ⚙️ Tecnologias & Ferramentas
 
 - **Linguagens:** Python, SQL
 - **Orquestração:** Apache Airflow
