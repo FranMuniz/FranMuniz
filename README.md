@@ -1,13 +1,13 @@
-## Hello World, sou a Fran — Engenheira de Dados 👩‍💻🧠
+## Hello World, sou a Fran 👩‍💻🧠
+
+Atuo com engenharia de dados, unindo tecnologia e estratégia para construir pipelines eficientes, detectar falhas em fluxos automatizados e garantir que os dados cheguem onde precisam — do jeitinho certo.
+
+Tenho experiência com SQL (PrestoSQL 💙), Python, Airflow, Docker/Podman, S3 e arquitetura medalhão. Também carrego na bagagem uma vivência valiosa no setor de pagamentos, onde aprendi a importância dos detalhes na reconciliação financeira e na integridade das transações.
+
+Gosto de transformar complexidade em clareza — seja na documentação técnica, na modelagem de dados ou no bom e velho Jira pra acompanhar as sprints.
+Sempre buscando melhorar, aprender e entregar com qualidade 🚀
 
 ### ⚙️ Tecnologias & Ferramentas
-
-- **Linguagens:** Python, SQL
-- **Orquestração:** Apache Airflow
-- **Processamento:** Apache Spark
-- **Banco de Dados:** PrestoSQL e PostgreSQL
-- **Cloud & Big Data:** AWS, S3
-- **Versionamento & Colaboração:** Git, GitHub
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Trino (PrestoSQL)](https://img.shields.io/badge/Trino-4285F4?style=flat-square&logo=trino&logoColor=white)
