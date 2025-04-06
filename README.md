@@ -10,9 +10,8 @@
 - **Versionamento & Colaboração:** Git, GitHub
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Trino (PrestoSQL)](https://img.shields.io/badge/Trino-4285F4?style=flat-square&logo=trino&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Presto SQL](https://img.shields.io/badge/PrestoSQL-336791?style=flat-square&logo=data&logoColor=white)
-
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
