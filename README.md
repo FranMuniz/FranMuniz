@@ -1,4 +1,4 @@
-## Hello World, sou a Fran — Engenharia de Dados com Propósito 👩‍💻🧠
+## Hello World, sou a Fran — Engenharia de Dados 👩‍💻🧠
 
 ### ⚙️ Tecnologias & Ferramentas
 
