@@ -14,6 +14,7 @@ Always striving to improve, learn, and deliver with quality 🚀
 
 ---
 <div align="center">
+  
 ## ⚙️ Tech & Tools I Work With
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
@@ -26,7 +27,7 @@ Always striving to improve, learn, and deliver with quality 🚀
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
 </div>
-</div align="center">
+
 ---
 
 ## 💬 Let's Connect
@@ -40,4 +41,5 @@ Always striving to improve, learn, and deliver with quality 🚀
 <!-- snake contrib animation -->
 ![Snake animation](https://github.com/FranMuniz/FranMuniz/blob/output/github-contribution-grid-snake.svg)
 
+</div align="center">
 
