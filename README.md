@@ -2,7 +2,7 @@
   
 # Hey there 🙋🏻‍♀️ I'm Fran!
 
-### Junior Data Engineer 
+### Data Engineer 
 </div align="center">
 
 I work in data engineering, combining technology and strategy to build efficient pipelines, detect failures in automated flows, and ensure data gets where it needs to be — just the right way.
