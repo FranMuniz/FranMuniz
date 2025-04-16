@@ -7,9 +7,9 @@
 
 I work in data engineering, combining technology and strategy to build efficient pipelines, detect failures in automated flows, and ensure data gets where it needs to be — just the right way.
 
-I have experience with SQL (PrestoSQL 💙), Python, Airflow, Docker/Podman, S3, and medallion architecture. I also bring valuable experience from the payments sector, where I learned the importance of details in financial reconciliation and transaction integrity.
+I have experience with SQL (PrestoSQL 💙), Python, Airflow, Docker/Podman, S3, and medallion architecture. I also bring valuable insights from the payments sector, where I learned the importance of details in financial reconciliation and transaction integrity.
 
-I enjoy turning complexity into clarity — whether it’s in technical documentation, data modeling, or good old Jira to track sprints.
+I enjoy turning complexity into clarity — whether it’s in technical documentation, data modeling, or good old Jira, to track sprints.
 Always striving to improve, learn, and deliver with quality 🚀
 
 ---
