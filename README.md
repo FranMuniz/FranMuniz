@@ -1,7 +1,8 @@
 <div align="center">
-# Hey there 👋 I'm Fran!
+  
+# Hey there 🙋🏻‍♀️ I'm Fran!
 
-### Data Engineer | Data Explorer | Efficiency Enthusiast
+### Junior Data Engineer 
 </div align="center">
 
 ---
