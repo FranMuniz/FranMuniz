@@ -1,7 +1,6 @@
 <div align="center">
   
-# Hey there 🙋🏻‍♀️ 
-# I'm Fran!
+# Hey there 🙋🏻‍♀️ I'm Fran!
 
 ### Data Engineer 
 </div align="center">
