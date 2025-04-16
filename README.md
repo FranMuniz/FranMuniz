@@ -13,7 +13,7 @@ I enjoy turning complexity into clarity — whether it’s in technical document
 Always striving to improve, learn, and deliver with quality 🚀
 
 ---
-
+<div align="center">
 ## ⚙️ Tech & Tools I Work With
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
@@ -26,7 +26,7 @@ Always striving to improve, learn, and deliver with quality 🚀
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
 </div>
-
+</div align="center">
 ---
 
 ## 💬 Let's Connect
