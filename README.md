@@ -5,7 +5,7 @@
 - 🏢 Currently working in the **Payments team at Shopee Brazil**
 - 🌱 Always learning more about **data architecture and pipeline automation**
 - 🧠 Ask me about **Airflow, SQL (Presto), financial reconciliation, and streaming data**
-- 📫 Reach me at: [franmuniz@protonmail.com](mailto:franmuniz@protonmail.com)
+- 📫 Reach me at: [franmuniz@protonmail.com](mailto:francy_muniz@hotmail.com)
 - ⚡ Fun fact: _I'm obsessed with clean processes and good documentation ✨_
 
 ---
