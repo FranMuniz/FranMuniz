@@ -15,7 +15,7 @@ Always striving to improve, learn, and deliver with quality 🚀
 ---
 <div align="center">
   
-## ⚙️ Tech & Tools I Work With
+### ⚙️ Tech & Tools I Work With
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -30,7 +30,7 @@ Always striving to improve, learn, and deliver with quality 🚀
 
 ---
 
-## 💬 Let's Connect
+### 💬 Let's Connect?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francielimuniz/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f_mmuniz/)
