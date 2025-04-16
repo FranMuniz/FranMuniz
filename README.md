@@ -2,7 +2,7 @@
 # Hey there 👋 I'm Fran!
 
 ### Data Engineer | Data Explorer | Efficiency Enthusiast
-
+</div align="center">
 - 🏢 Currently working in the **Payments team at Shopee Brazil**
 - 🌱 Always learning more about **data architecture and pipeline automation**
 - 🧠 Ask me about **Airflow, SQL (Presto), financial reconciliation, and streaming data**
