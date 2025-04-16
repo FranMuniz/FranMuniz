@@ -5,11 +5,9 @@
 ### Junior Data Engineer 
 </div align="center">
 
-- 🏢 Currently working in the **Payments team at Shopee Brazil**
-- 🌱 Always learning more about **data architecture and pipeline automation**
-- 🧠 Ask me about **Airflow, SQL (Presto), financial reconciliation, and streaming data**
+- 🏢 Currently working in the **Data Team at SeaMoney**
+- 🌱 Always learning more about **data architecture, engineering and pipeline automation**
 - 📫 Reach me at: [franmuniz@protonmail.com](mailto:francy_muniz@hotmail.com)
-- ⚡ Fun fact: _I'm obsessed with clean processes and good documentation ✨_
 
 ---
 
