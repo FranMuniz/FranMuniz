@@ -1,21 +1,21 @@
 <div align="center">
   
-# Hey there 🙋🏻‍♀️ I'm Fran!
+# Oii 🙋🏻‍♀️ Sou a Fran!
 
-### Data Engineer 
+### Engenheira de Dados
 </div align="center">
 
-I work in data engineering, combining technology and strategy to build efficient pipelines, detect failures in automated flows, and ensure data gets where it needs to be — just the right way.
+Trabalho com engenharia de dados, unindo tecnologia e estratégia para construir pipelines eficientes, detectar falhas em fluxos automatizados e garantir que os dados cheguem ao destino — do jeito certo.
 
-I have experience with SQL (PrestoSQL 💙), Python, Airflow, Docker/Podman, S3, and medallion architecture. I also bring valuable insights from the payments sector, where I learned the importance of details in financial reconciliation and transaction integrity.
+Tenho experiência com SQL (PrestoSQL 💙), Python, Airflow, Docker/Podman, S3 e arquitetura em camadas (medalhão). Também trago insights valiosos do setor de pagamentos, onde aprendi a importância dos detalhes na reconciliação financeira e na integridade das transações.
 
-I enjoy turning complexity into clarity — whether it’s in technical documentation, data modeling, or good old Jira, to track sprints.
-Always striving to improve, learn, and deliver with quality 🚀
+Gosto de transformar complexidade em clareza — seja em documentação técnica, modelagem de dados ou no bom e velho Jira para acompanhar os sprints.
+Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
 
 ---
 <div align="center">
   
-### ⚙️ Tech & Tools I Work With
+### ⚙️ Tecnologias & Ferramentas com as quais trabalho
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -30,7 +30,7 @@ Always striving to improve, learn, and deliver with quality 🚀
 
 ---
 
-### 💬 Let's Connect?
+### 💬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francielimuniz/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f_mmuniz/)
