@@ -39,7 +39,7 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
 ---
 
 <!-- snake contrib animation -->
-![Snake animation](https://github.com/FranMuniz/FranMuniz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/github-contribution-grid-snake.svg)
 
 </div align="center">
 
