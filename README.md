@@ -2,7 +2,6 @@
   
 # Oii 🙋🏻‍♀️ Sou a Fran!
 
-### Engenheira de Dados
 </div align="center">
 
 Trabalho com engenharia de dados, unindo tecnologia e estratégia para construir pipelines eficientes, detectar falhas em fluxos automatizados e garantir que os dados cheguem ao destino — do jeito certo.
