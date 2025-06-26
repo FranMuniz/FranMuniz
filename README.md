@@ -33,7 +33,7 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
 ### 📜 Certificações
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
-  <img src="./assets/databricks-badge.png" alt="Databricks Fundamentals Badge" width="150"/>
+  <img src="./assets/databricks-badge.png" alt="Databricks Fundamentals Badge" width="175"/>
 </div>
 
 </div>
