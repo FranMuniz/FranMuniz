@@ -36,6 +36,8 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
   <img src="https://img.shields.io/badge/Databricks%20Fundamentals-FE502F?style=flat-square&logo=databricks&logoColor=white"/>
 </div>
 
+<img src="./assets/databricks-badge.png" alt="Databricks Fundamentals Badge" width="200"/>
+
 </div>
 
 ---
