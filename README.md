@@ -28,6 +28,15 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
 </div>
 
 ---
+<div align="center">
+
+### 📜 Certificações
+
+<img src="https://img.shields.io/badge/Databricks%20Lakehouse%20Fundamentals-FE502F?style=flat-square&logo=databricks&logoColor=white"/>  
+Certificação obtida pela [Databricks Academy](https://academy.databricks.com/), abordando conceitos como Apache Spark, Delta Lake, Unity Catalog e arquitetura Lakehouse.
+
+</div>
+---
 
 ### 💬 Vamos nos conectar?
 
