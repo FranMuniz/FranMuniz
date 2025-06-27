@@ -26,7 +26,6 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
 </div>
 
----
 <div align="center">
 
 ### 📜 Certificações
