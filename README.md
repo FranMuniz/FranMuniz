@@ -34,8 +34,6 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
   <img src="./assets/databricks-badge.png" alt="Databricks Fundamentals Badge" width="200"/>
 </div>
 
-</div>
-
 ### 💬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francielimuniz/)
