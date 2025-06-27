@@ -35,7 +35,6 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
 </div>
 
 </div>
----
 
 ### 💬 Vamos nos conectar?
 
