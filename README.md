@@ -47,11 +47,5 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-
-<!-- snake contrib animation -->
-![Snake animation](https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/github-contribution-grid-snake.svg)
-
 </div align="center">
 
