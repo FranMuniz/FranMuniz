@@ -41,6 +41,14 @@ Estou sempre buscando melhorar, aprender e entregar com qualidade 🚀
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francy_muniz@hotmail.com)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 <!-- snake contrib animation -->
 ![Snake animation](https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/github-contribution-grid-snake.svg)
