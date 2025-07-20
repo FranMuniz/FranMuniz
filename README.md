@@ -4,7 +4,8 @@
 
 </div align="center">
 
-Engenheira de dados focada em construir pipelines eficientes, detectar falhas e garantir a integridade dos dados. Experiência com PrestoSQL 💙, Python, Airflow, Docker/Podman, S3 e arquitetura em camadas. Atuação no setor de pagamentos, com foco em reconciliação financeira e integridade de transações. Gosto de transformar complexidade em clareza — na modelagem, documentação ou em sprints do bom e velho Jira. Sempre buscando evoluir e entregar com qualidade 🚀
+Engenheira de dados focada em construir pipelines eficientes, detectar falhas e garantir a integridade dos dados. Experiência com PrestoSQL 💙, Python, Airflow, Docker/Podman, S3 e arquitetura em camadas. 
+Atuação no setor de pagamentos, com foco em reconciliação financeira e integridade de transações. Gosto de transformar complexidade em clareza — na modelagem, documentação ou em sprints do bom e velho Jira. Sempre buscando evoluir e entregar com qualidade 🚀
 
 <div align="center">
   
