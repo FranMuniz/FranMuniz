@@ -5,8 +5,8 @@ Working in the payments sector, specializing in financial reconciliation and tra
 
 ### 🎓 Education
 
-- 📚 **Bachelor’s Degree in Computer Science** - UNIP (2021 - 2024)  
-- 🎓 **Postgraduate in Data Engineering and Architecture with AI** - Faculdade XP (2025 - 2026)
+- **Bachelor’s Degree in Computer Science** - UNIP (2021 - 2024)  
+- **Postgraduate in Data Engineering and Architecture with AI** - Faculdade XP (2025 - 2026)
 
 <div align="center">
 
