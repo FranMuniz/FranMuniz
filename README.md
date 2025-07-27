@@ -1,4 +1,6 @@
-## Hi there 🙋🏻‍♀️ I'm Fran!
+<div align="center">
+## Hi 🙋🏻‍♀️ I'm Fran!
+</div>
 
 Data engineer focused on building efficient pipelines, detecting failures, and ensuring data integrity. Experienced with PrestoSQL 💙, Python, Airflow, Docker/Podman, S3, and layered architecture.  
 Working in the payments sector, specializing in financial reconciliation and transaction integrity. I enjoy turning complexity into clarity — whether in modeling, documentation, or classic Jira sprints. Always striving to improve and deliver quality 🚀
