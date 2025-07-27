@@ -8,9 +8,11 @@ Working in the payments sector, specializing in financial reconciliation and tra
 - 📚 **Bachelor’s Degree in Computer Science** - UNIP (2021 - 2024)  
 - 🎓 **Postgraduate in Data Engineering and Architecture with AI** - Faculdade XP (2025 - 2026)
 
+<div align="center">
+
 ### ⚙️ Technologies & Tools I Work With
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Trino-4285F4?style=flat-square&logo=trino&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -23,7 +25,7 @@ Working in the payments sector, specializing in financial reconciliation and tra
 
 ### 📜 Certifications
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="./assets/databricks-badge.png" alt="Databricks Fundamentals Badge" width="150" />
 </div>
 
@@ -40,3 +42,5 @@ Working in the payments sector, specializing in financial reconciliation and tra
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/pacman-contribution-graph.svg" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FranMuniz/FranMuniz/output/pacman-contribution-graph.svg" />
 </picture>
+
+</div>
