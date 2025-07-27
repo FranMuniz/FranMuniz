@@ -1,5 +1,7 @@
 <div align="center">
+  
 ## Hi 🙋🏻‍♀️ I'm Fran!
+
 </div>
 
 Data engineer focused on building efficient pipelines, detecting failures, and ensuring data integrity. Experienced with PrestoSQL 💙, Python, Airflow, Docker/Podman, S3, and layered architecture.  
