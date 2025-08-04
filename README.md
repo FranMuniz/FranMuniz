@@ -11,7 +11,7 @@ Working in the payments sector, specializing in financial reconciliation and tra
 
 - **Bachelor’s Degree in Computer Science** 
 - **Postgraduate in Data Engineering and Architecture with AI**
-- 
+  
 <div align="center">
 
 ### ⚙️ Technologies & Tools I Work With
