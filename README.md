@@ -9,8 +9,8 @@ Working in the payments sector, specializing in financial reconciliation and tra
 
 ### 🎓 Education
 
-- **Bachelor’s Degree in Computer Science** 
-- **Postgraduate in Data Engineering and Architecture with AI**
+- **Bachelor’s Degree in Computer Science (2021-2024)** 
+- **Postgraduate in Data Engineering and Architecture with AI (2025-2026)**
   
 <div align="center">
 
