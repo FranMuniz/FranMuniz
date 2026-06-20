@@ -29,9 +29,18 @@ Working in the payments sector, specializing in financial reconciliation and tra
 
 ### 📜 Certifications
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  <img src="./assets/databricks-badge.png" alt="Databricks Fundamentals Badge" width="150" />
-</div>
+<h2 align="center">📄 Certifications</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/databricks-badge.png" width="160"/>
+    </td>
+    <td align="center">
+      <img src="./assets/f3fc2a85-6db2-4d27-b057-19353f55e87a.png" width="160"/>
+    </td>
+  </tr>
+</table>
 
 ### 💬 Let's Connect!
 
